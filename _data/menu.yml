@@ -2,101 +2,101 @@
   url: /
 
 - title: Setup
-  url: /ox/docs/setup/install.html
+  url: docs/setup/install.html
   sub:
     - title: Installation
-      url: /ox/docs/setup/install.html
+      url: ~/docs/setup/install.html
     - title: Running
-      url: /ox/docs/setup/running.html
+      url: ~/docs/setup/running.html
     - title: Deploying
-      url: /ox/docs/setup/deploying.html
+      url: ~/docs/setup/deploying.html
 
 - title: Assets
-  url: /ox/docs/assets/overview.html
+  url: ~/docs/assets/overview.html
   sub:
     - title: Overview
-      url: /ox/docs/assets/overview.html
+      url: ~/docs/assets/overview.html
     - title: Audio
-      url: /ox/docs/assets/audio.html
+      url: ~/docs/assets/audio.html
     - title: Data
-      url: /ox/docs/assets/data.html
+      url: ~/docs/assets/data.html
     - title: Images
-      url: /ox/docs/assets/images.html
+      url: ~/docs/assets/images.html
 
 - title: Canvas
-  url: /ox/docs/canvas/overview.html
+  url: ~/docs/canvas/overview.html
   sub:
     - title: Overview
-      url: /ox/docs/canvas/overview.html
+      url: ~/docs/canvas/overview.html
     - title: Methods
-      url: /ox/docs/canvas/methods.html
+      url: ~/docs/canvas/methods.html
     - title: Properties
-      url: /ox/docs/canvas/properties.html
+      url: ~/docs/canvas/properties.html
 
 - title: Entities
-  url: /ox/docs/entities/overview.html
+  url: ~/docs/entities/overview.html
   sub:
     - title: Overview
-      url: /ox/docs/entities/overview.html
+      url: ~/docs/entities/overview.html
     - title: Spawning
-      url: /ox/docs/entities/spawn.html
+      url: ~/docs/entities/spawn.html
     - title: Creating
-      url: /ox/docs/entities/creating.html
+      url: ~/docs/entities/creating.html
 
 - title: Scenes
-  url: /ox/docs/scenes/overview.html
+  url: ~/docs/scenes/overview.html
   sub:
     - title: Overview
-      url: /ox/docs/scenes/overview.html
+      url: ~/docs/scenes/overview.html
     - title: Setting
-      url: /ox/docs/scenes/set.html
+      url: ~/docs/scenes/set.html
     - title: Creating
-      url: /ox/docs/scenes/creating.html
+      url: ~/docs/scenes/creating.html
 
 - title: Entity Object
-  url: /ox/docs/entity/overview.html
+  url: ~/docs/entity/overview.html
   sub:
     - title: Overview
-      url: /ox/docs/entity/overview.html
+      url: ~/docs/entity/overview.html
     - title: Properties
       url: #
       sub:
         - title: '.id'
-          url: /ox/docs/entity/id.html
+          url: ~/docs/entity/id.html
         - title: '.type'
-          url: /ox/docs/entity/type.html
+          url: ~/docs/entity/type.html
     - title: Methods
       url: #
       sub:
         - title: '.disable()'
-          url: /ox/docs/entity/disable.html
+          url: ~/docs/entity/disable.html
         - title: '.draw()'
-          url: /ox/docs/hooks/draw.html
+          url: ~/docs/hooks/draw.html
         - title: '.enable()'
-          url: /ox/docs/entity/enable.html
+          url: ~/docs/entity/enable.html
         - title: '.init()'
-          url: /ox/docs/hooks/init.html
+          url: ~/docs/hooks/init.html
         - title: '.update(dt)'
-          url: /ox/docs/hooks/update.html
+          url: ~/docs/hooks/update.html
 
 
 - title: Scene Object
-  url: /ox/docs/scene/overview.html
+  url: ~/docs/scene/overview.html
   sub:
     - title: Overview
-      url: /ox/docs/scene/overview.html
+      url: ~/docs/scene/overview.html
     - title: Methods
       url: #
       sub:
         - title: '.draw()'
-          url: /ox/docs/hooks/draw.html
+          url: ~/docs/hooks/draw.html
         - title: '.init()'
-          url: /ox/docs/hooks/init.html
+          url: ~/docs/hooks/init.html
         - title: '.update(dt)'
-          url: /ox/docs/hooks/update.html
+          url: ~/docs/hooks/update.html
 
 - title: Mouse
-  url: /ox/docs/mouse/overview.html
+  url: ~/docs/mouse/overview.html
 
 - title: Keyboard
   url: #
