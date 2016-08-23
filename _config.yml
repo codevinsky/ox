@@ -1,10 +1,10 @@
 # Site settings
 title: ox - 2d canvas game framework
-email: ottorobba@gmail.com
-author: Otto Robba
+email: jeremy@codevinsky.com
+author: Jeremy Dowell
 description: "Minimalist 2D game framework made for the web with a strong entity system and modular design. Documentation available and expanding!"
-url: "http://ox2d.com"
-baseurl: "http://ox2d.com"
+url: "http://codevinsky.github.com/ox"
+baseurl: "http://codevinsky.github.com/ox"
 google_analytics: UA-55865997-2
 
 #gems: [jekyll-sitemap]
